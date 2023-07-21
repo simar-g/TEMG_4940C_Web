@@ -1,0 +1,7 @@
+{
+  
+    "homepage": "http://simar-g.github.io/TEMG_4940C_Web",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
